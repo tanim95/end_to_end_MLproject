@@ -1,6 +1,6 @@
 # Gem Price Prediction
 
-This project aims to predict gem prices based on various features such as cut, color, clarity, depth, table, and dimensions (x, y, z).It is implemented in Python 3.8.10 within a virtual environment named 'venom'.
+This is an ML model aims to predict gem prices based on various features such as cut, color, clarity, depth, table, and dimensions (x, y, z).It is implemented in Python 3.8.10 within a virtual environment named 'venom'.
 
 ## Directory Structure
 
